@@ -1,0 +1,5 @@
+@media only screen and (max-width:1200px){header{height:65vh}.row{margin:0 15px}h1{width:80%;margin:auto}}@media only screen and (max-width:1024px){.main-nav{display:none}html{font-size:57.5%}.hero-text-box h1{width:90%;margin:auto}.client-photo{width:100%;float:none;text-align:center}.client-review{width:100%;float:none;text-align:center}.contect-section form{width:100%;margin-left:0}.hero-text-box{width:90%}.mobile-menu span{display:block}.hamburger{display:block;padding-top:3.5rem}}@media only screen and (max-width:980px){.span_1_of_4{width:49.2%}.span_1_of_4:nth-child(3){margin-left:0}html{font-size:62.5%}}@media only screen and (max-width:768px){.little-description{width:100%;margin-left:0}}@media only screen and (max-width:480px){.span_1_of_4{width:100%}.testimonial .col:nth-child(3),.testimonial .col:nth-child(4){margin-top:4rem}.protfolio-filter button:nth-child(4){margin-top:2rem;margin-left:0}.hamburger{padding-top:3.5rem}
+header {
+    height: 70vh;
+}
+}
